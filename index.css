@@ -1,0 +1,21 @@
+body{
+    color:white;
+   
+}
+
+.nav-link{
+    color: white;
+    font-size: x-large;
+    align-items: center;
+    font-weight: 600; 
+}
+/* styling the carousel.........................*/
+.carousel {
+    height: 500px; /* Set the height of the carousel */
+    background-color: rgb(62, 62, 62);
+  }
+  .carousel-item img {
+    
+    object-fit: cover; /* Maintain aspect ratio and cover the entire space */
+  }
+  
