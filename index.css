@@ -19,3 +19,34 @@ body{
     object-fit: cover; /* Maintain aspect ratio and cover the entire space */
   }
   
+.img1{
+  
+  padding-left: 0px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  margin-left: 1px;
+  height: 600px;
+}
+
+h1{
+  color: #00426c;
+  font-size: 39px;
+  font-family: cairo, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.25px;
+  text-transform: none;
+  line-height: 44px;
+  margin-left: 60px;
+  margin-top: 34px;
+}
+.p1{
+  font-family: cairo, sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-style: normal;
+  color: #00426c;
+  font-weight: 400;
+  margin-left: 200px;
+  margin-top: 34px;
+  
+}
